@@ -1,5 +1,5 @@
 # Assignment_DiceRolling
-Assignment for The Developer Academy
+Assignment for The Developer Academy.
 When the program runs, it will randomly choose a number between 1 and 6.  
 The program will print what that number is. 
-It will then ask you if you’d like to roll again.
+The programme will then ask if you would like to roll again (select r) or exit (select n).
