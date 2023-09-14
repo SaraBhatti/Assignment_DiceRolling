@@ -34,7 +34,8 @@ while x == "y":
         print("[0 0 0]")
         print("[     ]")
         print("[0 0 0]")
-         
-    x=input("press r to roll again and n to exit:")
+
+#Message that will appear to the user tol roll the dice   
+    x=input("It's time to roll! Press r to roll again and n to exit:")
     print("\n")
     
